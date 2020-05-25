@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/RoboSearch/static/css/main.580c6f4c.chunk.css",
+    "main.js": "/RoboSearch/static/js/main.24e573b7.chunk.js",
+    "main.js.map": "/RoboSearch/static/js/main.24e573b7.chunk.js.map",
+    "runtime-main.js": "/RoboSearch/static/js/runtime-main.dd5cd028.js",
+    "runtime-main.js.map": "/RoboSearch/static/js/runtime-main.dd5cd028.js.map",
+    "static/js/2.5b17ec29.chunk.js": "/RoboSearch/static/js/2.5b17ec29.chunk.js",
+    "static/js/2.5b17ec29.chunk.js.map": "/RoboSearch/static/js/2.5b17ec29.chunk.js.map",
+    "index.html": "/RoboSearch/index.html",
+    "precache-manifest.08ed70cad72e947f00849ea5021ca20b.js": "/RoboSearch/precache-manifest.08ed70cad72e947f00849ea5021ca20b.js",
+    "service-worker.js": "/RoboSearch/service-worker.js",
+    "static/css/main.580c6f4c.chunk.css.map": "/RoboSearch/static/css/main.580c6f4c.chunk.css.map",
+    "static/js/2.5b17ec29.chunk.js.LICENSE.txt": "/RoboSearch/static/js/2.5b17ec29.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/RoboSearch/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dd5cd028.js",
+    "static/js/2.5b17ec29.chunk.js",
+    "static/css/main.580c6f4c.chunk.css",
+    "static/js/main.24e573b7.chunk.js"
+  ]
+}
