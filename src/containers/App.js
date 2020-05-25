@@ -3,6 +3,7 @@ import {connect} from "react-redux";
 import CardList from "../components/card_list/CardList";
 import SearchField from "../components/search_field/SearchField";
 import ErrorBoundary from "../components/error_boundary/ErrorBoundary";
+import Header from "../components/header/Header";
 import './App.scss';
 
 import {setSearchField, requestRobots} from "../redux/actions";
@@ -38,7 +39,7 @@ class App extends Component {
     <h1>Loading</h1> :
     (
      <div className={'mainblock'}>
-       <h1>RoboSearch</h1>
+       <Header/>
        <SearchField searchChange={onSearchChange} />
        <ErrorBoundary>
          <CardList robots={filteredRobots} />
