@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/RoboSearch/static/css/main.82fe0db3.chunk.css",
-    "main.js": "/RoboSearch/static/js/main.4708768f.chunk.js",
-    "main.js.map": "/RoboSearch/static/js/main.4708768f.chunk.js.map",
+    "main.js": "/RoboSearch/static/js/main.d89a62a8.chunk.js",
+    "main.js.map": "/RoboSearch/static/js/main.d89a62a8.chunk.js.map",
     "runtime-main.js": "/RoboSearch/static/js/runtime-main.dd5cd028.js",
     "runtime-main.js.map": "/RoboSearch/static/js/runtime-main.dd5cd028.js.map",
     "static/js/2.5b17ec29.chunk.js": "/RoboSearch/static/js/2.5b17ec29.chunk.js",
     "static/js/2.5b17ec29.chunk.js.map": "/RoboSearch/static/js/2.5b17ec29.chunk.js.map",
     "index.html": "/RoboSearch/index.html",
-    "precache-manifest.2e91238cf4797fd45dc5a95eae7b3abd.js": "/RoboSearch/precache-manifest.2e91238cf4797fd45dc5a95eae7b3abd.js",
+    "precache-manifest.24aad5e6135cd1e363ea7fe71b13ba81.js": "/RoboSearch/precache-manifest.24aad5e6135cd1e363ea7fe71b13ba81.js",
     "service-worker.js": "/RoboSearch/service-worker.js",
     "static/css/main.82fe0db3.chunk.css.map": "/RoboSearch/static/css/main.82fe0db3.chunk.css.map",
     "static/js/2.5b17ec29.chunk.js.LICENSE.txt": "/RoboSearch/static/js/2.5b17ec29.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.dd5cd028.js",
     "static/js/2.5b17ec29.chunk.js",
     "static/css/main.82fe0db3.chunk.css",
-    "static/js/main.4708768f.chunk.js"
+    "static/js/main.d89a62a8.chunk.js"
   ]
 }
