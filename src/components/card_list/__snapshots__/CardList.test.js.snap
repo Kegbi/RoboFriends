@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Expect to render CardList component 1`] = `
+<div>
+  <div
+    className="card"
+  >
+    <img
+      alt="kitty"
+      src="https://robohash.org/1?set=set3"
+    />
+    <h2
+      className="card__header"
+    >
+      John Snow
+    </h2>
+    <p
+      className="card_mail"
+    >
+      john@gmail.com
+    </p>
+  </div>
+</div>
+`;
