@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a646466ac6070ab00833cc9241a9844c",
+    "revision": "456a852d50ed1612919c7b14b5fcbf2b",
     "url": "/RoboSearch/index.html"
   },
   {
-    "revision": "2e0c20a4663480bac4e1",
+    "revision": "237f7ccc79e794e2bee2",
     "url": "/RoboSearch/static/css/main.1fbfe26c.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/RoboSearch/static/js/2.5b17ec29.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2e0c20a4663480bac4e1",
-    "url": "/RoboSearch/static/js/main.6ead9728.chunk.js"
+    "revision": "237f7ccc79e794e2bee2",
+    "url": "/RoboSearch/static/js/main.9da32744.chunk.js"
   },
   {
     "revision": "7b768c2ff4971a4277ae",
