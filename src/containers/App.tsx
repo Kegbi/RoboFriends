@@ -3,8 +3,9 @@ import {connect} from "react-redux";
 
 import {setSearchField, requestRobots} from "../redux/actions";
 import MainPage from "../components/main_page/MainPage";
+import {IAppBaseProps, IRobotsState, ISomeProps} from "../types/types";
 
-const mapStateToProps = state => {
+const mapStateToProps = (state: IAppBaseProps) => {
   return {
     searchField: state.searchRobots.searchField,
     robots: state.requestRobots.robots,
@@ -13,15 +14,15 @@ const mapStateToProps = state => {
   }
 }
 
-const mapDispatchToProps = (dispatch) => {
+const mapDispatchToProps = (dispatch: any) => {
   return {
-    onSearchChange: (event) => dispatch(setSearchField(event.target.value)),
+    onSearchChange: (event: React.SyntheticEvent<HTMLInputElement>):void => dispatch(setSearchField(event.currentTarget.value)),
     onRequestRobots: () => dispatch(requestRobots())
   }
 }
 
-class App extends Component {
-  render() {
+class App extends Component<ISomeProps, IRobotsState> {
+  render():JSX.Element {
     return <MainPage {...this.props} />
   }
 }

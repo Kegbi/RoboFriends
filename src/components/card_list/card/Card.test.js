@@ -1,4 +1,3 @@
-import {shallow} from 'enzyme';
 import React from "react";
 import Card from "./Card";
 import renderer from 'react-test-renderer';

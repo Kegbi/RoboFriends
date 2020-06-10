@@ -1,7 +1,8 @@
 import React from "react";
 import './searchfield.scss';
+import {ISearchFieldProps} from "../../types/types";
 
-function SearchField({searchChange}) {
+const SearchField = ({searchChange}:ISearchFieldProps) => {
   return (
     <div className={'searchfield'}>
       <input aria-label={'Search Robots'} className={'searchfield__input'} type="search" placeholder={'Search robots!'} onChange={searchChange}/>

@@ -1,7 +1,8 @@
 import React from "react";
 import Card from "./card/Card";
+import {IRobotsState} from "../../types/types";
 
-function CardList({robots}) {
+function CardList({robots}:IRobotsState) {
   return(
     <div>
       {
