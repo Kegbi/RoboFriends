@@ -1,21 +1,21 @@
 @font-face {
-  font-display: swap;
-  font-family: 'SEGA LOGO FONT';
-  font-style: normal;
-  font-weight: normal;
-  src: local('SEGA LOGO FONT'), url('../../fonts/SEGA.woff') format('woff');
+	font-display: swap;
+	font-family: "SEGA LOGO FONT";
+	font-style: normal;
+	font-weight: normal;
+	src: local("SEGA LOGO FONT"), url("../../fonts/SEGA.woff") format("woff");
 }
 
 h1 {
-  text-align: center;
-  color: #ffffff;
-  font-family: "SEGA LOGO FONT";
-  font-weight: 200;
-  font-size: 3rem;
+	text-align: center;
+	color: #ffffff;
+	font-family: "SEGA LOGO FONT";
+	font-weight: 200;
+	font-size: 3rem;
 }
 
 .mainblock {
-  text-align: center;
+	text-align: center;
 }
 
 @import "mainpage_media";
